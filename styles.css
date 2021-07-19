@@ -286,7 +286,7 @@ input {
     height: 1.3rem;
     right: 1.5rem;
     cursor: pointer;
-    background: url(assets/imagens/menu.png);
+    background: url(assets/imagens/close.png);
     background-size: 1.2rem;
     background-position: center;
     background-repeat: no-repeat;
@@ -296,7 +296,7 @@ input {
   .toggle.active {
     position: fixed;
     right: 2.5rem;
-    background: url(assets/imagens/close.png);
+    background: url(assets/imagens/menu.png);
     background-size: 1.2rem;
     background-position: center;
     background-repeat: no-repeat;
@@ -304,11 +304,6 @@ input {
 
     header ul.navigation {
     left: -100%;
-  }
-
-    .toggle:checked:checked ~ .navigation {
-     margin-left: 0;
-     display: none;
   }
 
     header ul.navigation.active {
