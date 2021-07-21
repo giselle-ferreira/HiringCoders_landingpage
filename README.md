@@ -9,7 +9,12 @@
 3. Landing page de promoções, estilo black friday
 4. Cadastre seu e-mail para receber promoções
 5. Dados no localStorage
-  (6. Recomendado hospedar no Netlify)
+6. Recomendado hospedar no Netlify
+
+Tecnologias utilizadas
+1. HTML
+2. CSS
+3. Javascript
 
 
 
