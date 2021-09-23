@@ -5,7 +5,7 @@ const hourElement = document.getElementById('hour')
 const minElement = document.getElementById('min')
 const secElement = document.getElementById('sec')
 
-const bFriday = '30 Jul 2021'
+const bFriday = '30 Dec 2021'
 
 function countdown() {
   const bFridayDate = new Date(bFriday)
