@@ -27,19 +27,24 @@
 
 <br>
 
->### Images
-<img src="https://i.postimg.cc/8cxdd2mS/hc-landingpage.gif" />
+### Images
+
+<img src="https://github.com/giselle-ferreira/hc-landingpage/blob/399e0e1183fde81a1472d8d20343088245cbc780/assets/gifs/hc-landingpage.gif" />
+
+<br>
+
+#### Desktop
+
+<img src="https://github.com/giselle-ferreira/hc-landingpage/blob/main/assets/imagens/desktop.png" width=800px />
+
+<br>
+
+### Mobile
 
 
-
-<img src="" />
-
-
-
-
-
-
-
+<img align="left" alt="mobile1" src="https://github.com/giselle-ferreira/hc-landingpage/blob/f69b460f75de0a153d1b4c088422131ccf781696/assets/imagens/mobile1.png" height="500px"/>
+<img align="left" alt="mobile2" src="https://github.com/giselle-ferreira/hc-landingpage/blob/f69b460f75de0a153d1b4c088422131ccf781696/assets/imagens/mobile2.png" height="500px"/>
+<img align="left" alt="mobile3" src="https://github.com/giselle-ferreira/hc-landingpage/blob/f69b460f75de0a153d1b4c088422131ccf781696/assets/imagens/mobile3.png" height="500px"/>
 
 
 
