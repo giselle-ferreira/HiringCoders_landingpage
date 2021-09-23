@@ -26,7 +26,9 @@
 <br>
 
 >### Images
-<img align="Center" src="https://github.com/giselle-ferreira/hc-landingpage/tree/main/assets/gifs"/>
+<img src="https://i.postimg.cc/8cxdd2mS/hc-landingpage.gif" />
+
+
 
 
 
