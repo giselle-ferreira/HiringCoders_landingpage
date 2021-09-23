@@ -1,21 +1,31 @@
-#CRIAÇÃO DE LANDING PAGE PARA E-COMMERCE :shopping_cart:
+>## LANDING PAGE FOR E-COMMERCE :shopping_cart:
 
-##DESAFIO 1 DO HIRING CODERS 2 / GAMA ACADEMY / VTEX 
+### CHALLENGE 1 FROM #HIRINGCODERS
+### A program in partnership with [GAMA ACADEMY](https://www.gama.academy/) and [VTEX](https://www.vtex.com/) 
 
-###ENTREGÁVEIS
+<br>
 
-1. Site Oficial/ Landing page
-2. Template do site oficial
-3. Landing page de promoções, estilo black friday
-4. Cadastre seu e-mail para receber promoções
-5. Dados no localStorage
-6. Recomendado hospedar no Netlify
+>### Deliverables
 
-Tecnologias utilizadas
-1. HTML
-2. CSS
-3. Javascript
+1. Official Website/ Landing page
+2. Black Friday style
+3. Email Capture
+4. Data stored in localStorage
 
+<br>
+
+>### Technologies
++ HTML
++ CSS
++ Javascript
+
+<br>
+
+>### Website
+
+<br>
+
+>### Images
 
 
 
