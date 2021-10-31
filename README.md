@@ -5,7 +5,7 @@
 
 <br>
 
->### Deliverables
+>### Deliverables 📝
 
 1. Official Website/ Landing page
 2. Black Friday style
@@ -14,20 +14,20 @@
 
 <br>
 
->### Technologies
+>### Technologies 🧰
 + HTML
 + CSS
 + Javascript
 
 <br>
 
->### Website
+>### Website 💻
 
 [shopYn - Landing Page](https://shopynlandingpage.netlify.app)
 
 <br>
 
-### Images
+### Layout 🖼️
 
 <img src="https://github.com/giselle-ferreira/hc-landingpage/blob/399e0e1183fde81a1472d8d20343088245cbc780/assets/gifs/hc-landingpage.gif" />
 
@@ -44,6 +44,7 @@
 
 <img align="left" alt="mobile1" src="https://github.com/giselle-ferreira/hc-landingpage/blob/f69b460f75de0a153d1b4c088422131ccf781696/assets/imagens/mobile1.png" height="500px"/>
 <img align="left" alt="mobile2" src="https://github.com/giselle-ferreira/hc-landingpage/blob/f69b460f75de0a153d1b4c088422131ccf781696/assets/imagens/mobile2.png" height="500px"/>
+
 <img align="left" alt="mobile3" src="https://github.com/giselle-ferreira/hc-landingpage/blob/f69b460f75de0a153d1b4c088422131ccf781696/assets/imagens/mobile3.png" height="500px"/>
 
 
